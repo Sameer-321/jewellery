@@ -4,28 +4,28 @@ import { RxDotFilled } from "react-icons/rx";
 const ImageSlider = () => {
   const slides = [
     {
-      url: "https://media.istockphoto.com/id/1458771092/photo/group-of-friends-having-fun-on-the-beach-during-sunset-having-fun-and-jumping-young-people.webp?b=1&s=170667a&w=0&k=20&c=Oe_f4sZ6uFo1syLjhvESXkE0cnxObegJ4jF8YXyHcmI=",
-      title: "beach",
+      url: "https://imgmediagumlet.lbb.in/media/2022/09/632846916e5fb64e9bd02f1a_1663583889764.jpg?fm=webp&w=250&h=250&dpr=2",
+      title: "",
     },
     {
-      url: "https://media.istockphoto.com/id/1492642430/photo/portrait-of-senior-friends-at-a-luxury-hotel-outdoors.webp?b=1&s=170667a&w=0&k=20&c=2Uzw2yE6z5ynMZfSFJAnonKUQFCdbdrLDxmdA2Y-rDM=",
-      title: "friends",
+      url: "https://imgmediagumlet.lbb.in/media/2022/09/632846916e5fb64e9bd02f1b_1663583889766.jpg?fm=webp&w=250&h=250&dpr=1",
+      title: "",
     },
     {
-      url: "https://media.istockphoto.com/id/1345310675/photo/3d-rendering-of-modern-house-in-luxurious-style-by-the-sea-or-ocean.webp?b=1&s=170667a&w=0&k=20&c=ip4m9C8unN1wSyv0gwFFEODIwdBwAultAUnIQV7Sg-A=",
-      title: "beach",
+      url: "https://www.boutiquedeluxe.ca/wp-content/uploads/indian_jewelry_mobile_necklace_sets.jpg",
+      title: "",
     },
     {
-      url: "https://media.istockphoto.com/id/1458771092/photo/group-of-friends-having-fun-on-the-beach-during-sunset-having-fun-and-jumping-young-people.webp?b=1&s=170667a&w=0&k=20&c=Oe_f4sZ6uFo1syLjhvESXkE0cnxObegJ4jF8YXyHcmI=",
-      title: "beach",
+      url: "https://images.pexels.com/photos/1446161/pexels-photo-1446161.jpeg?auto=compress&cs=tinysrgb&w=300",
+      title: "",
     },
     {
-      url: "https://media.istockphoto.com/id/1492642430/photo/portrait-of-senior-friends-at-a-luxury-hotel-outdoors.webp?b=1&s=170667a&w=0&k=20&c=2Uzw2yE6z5ynMZfSFJAnonKUQFCdbdrLDxmdA2Y-rDM=",
-      title: "friends",
+      url: "https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg?auto=compress&cs=tinysrgb&w=300",
+      title: "",
     },
     {
-      url: "https://media.istockphoto.com/id/1345310675/photo/3d-rendering-of-modern-house-in-luxurious-style-by-the-sea-or-ocean.webp?b=1&s=170667a&w=0&k=20&c=ip4m9C8unN1wSyv0gwFFEODIwdBwAultAUnIQV7Sg-A=",
-      title: "beach",
+      url: "https://images.pexels.com/photos/2064505/pexels-photo-2064505.jpeg?auto=compress&cs=tinysrgb&w=300",
+      title: "",
     },
   ];
 

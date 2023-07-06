@@ -12,50 +12,50 @@ const Footer = () => {
         <div>
           <h6 className="font-bold uppercase pt-2">Solutions</h6>
           <ul>
-            <li className="py-1">Travels</li>
-            <li className="py-1">Booking</li>
-            <li className="py-1">Flights</li>
-            <li className="py-1">Cruises</li>
-            <li className="py-1">Ground</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAAA</li>
+            <li className="py-1">AAAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
           </ul>
         </div>
 
         <div>
-          <h6 className="font-bold uppercase pt-2">Support</h6>
+          <h6 className="font-bold uppercase pt-2">AAA</h6>
           <ul>
-            <li className="py-1">Pricing</li>
-            <li className="py-1">Documentation</li>
-            <li className="py-1">Tours</li>
-            <li className="py-1">Refund</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
           </ul>
         </div>
 
         <div>
-          <h6 className="font-bold uppercase pt-2">Company</h6>
+          <h6 className="font-bold uppercase pt-2">AAA</h6>
           <ul>
-            <li className="py-1">About</li>
-            <li className="py-1">Blog</li>
-            <li className="py-1">Jobs</li>
-            <li className="py-1">Press</li>
-            <li className="py-1">Partners</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
           </ul>
         </div>
 
         <div>
-          <h6 className="font-bold uppercase pt-2">LEGAL</h6>
+          <h6 className="font-bold uppercase pt-2">AAA</h6>
           <ul>
-            <li className="py-1">Claims</li>
-            <li className="py-1">Privacy</li>
-            <li className="py-1">Terms</li>
-            <li className="py-1">Policies</li>
-            <li className="py-1">Conditions</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
+            <li className="py-1">AAA</li>
           </ul>
         </div>
 
         <div className="col-span-2 py-8 md:pt-2">
           <p className="font-bold uppercase">Subscribe to our newsletters</p>
           <p className="py-4">
-            The Latest deals,article and resource sent to your inbox weekly
+            The Latest news, article and offers sent to your inbox weekly
           </p>
           <form className="flex flex-col sm:flex-row">
             <input
@@ -63,7 +63,9 @@ const Footer = () => {
               type="email"
               placeholder="Enter Email.."
             />
-            <button className="p-2 mb-4 rounded-md">Subscribe</button>
+            <button className="p-2 mb-4 rounded-md bg-gray-600 ">
+              Subscribe
+            </button>
           </form>
         </div>
       </div>

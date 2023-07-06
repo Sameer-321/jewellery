@@ -1,39 +1,39 @@
 import React from "react";
 
-const Plan = () => {
+const Store = () => {
   return (
     <div className="max-w-[1400px] m-auto py-16 px-4 grid lg:grid-cols-2 gap-4">
       {/* left side */}
       <div className="grid grid-cols-2 grid-rows-6 h-[80vh] ">
         <img
           className="row-span-3 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1540541338287-41700207dee6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVzb3J0fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60"
+          src="https://www.smergers.com/media/businessphoto/33048-1564385751-1a4f2bba-e317-467c-ae88-b8dd3d029db4.jpg"
           alt=""
         />
         <img
           className="row-span-2 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1615880484746-a134be9a6ecf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmVzb3J0fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60"
+          src="https://www.smergers.com/media/businessphoto/33048-1564385748-22d36ccf-3174-4775-aa29-c5318069f533.jpg"
           alt=""
         />
         <img
           className="row-span-2 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1562790351-d273a961e0e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlc29ydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60"
-          alt=""
+          src="https://www.smergers.com/media/businessphoto/33047-1564385742-e181b8d4-50e4-4cfa-81d6-1f4a1265a3b9.jpg"
+          alt="a"
         />
         <img
           className="row-span-3 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1606402179428-a57976d71fa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlc29ydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60"
-          alt=""
+          src="https://imgk.timesnownews.com/story/gold_14.jpg?tr=w-600,h-450,fo-auto"
+          alt="b"
         />
         <img
           className="row-span-2 object-cover w-full h-full p-2"
-          src="https://media.istockphoto.com/id/1160947136/photo/couple-relax-on-the-beach-enjoy-beautiful-sea-on-the-tropical-island.webp?b=1&s=170667a&w=0&k=20&c=iQlqRxWg8LdpLy6Sr4nhkKZ_pW7ZdCTVJApuWQsPEiM="
+          src="https://i.insider.com/61025e410d35a9001825c443?width=700&format=jpeg&auto=webp"
           alt=""
         />
       </div>
       {/* right side */}
       <div className="flex flex-col h-full justify-center">
-        <h3 className="text-5xl md:text-6xl font-bold">Plan Your Next Trip</h3>
+        <h3 className="text-5xl md:text-6xl font-bold">Visit Our Store</h3>
         <p className="text-2xl py-6">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, quidem.
         </p>
@@ -44,10 +44,10 @@ const Plan = () => {
         </p>
         <div>
           <button className="border-black mr-4 hover:shadow-xl">
-            Learn More
+            Read More
           </button>
           <button className="border-black bg-black text-white hover:shadow-xl">
-            Book Your Trip
+            See More
           </button>
         </div>
       </div>
@@ -55,4 +55,4 @@ const Plan = () => {
   );
 };
 
-export default Plan;
+export default Store;
