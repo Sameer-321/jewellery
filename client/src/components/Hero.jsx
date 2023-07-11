@@ -20,7 +20,7 @@ const Hero = () => {
           life
         </h1>
       </div>
-      <div className="absolute top-0 left-0 h-full w-full  bg-black/30 " />
+      <div className="absolute top-0 left-0 h-full w-full  bg-black/10 " />
       <img
         className="w-full h-full object-cover  "
         src="https://images.unsplash.com/photo-1626784215013-13322cb0e471?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29sZCUyMGpld2VsbGVyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60"
